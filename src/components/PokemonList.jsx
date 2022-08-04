@@ -1,7 +1,7 @@
 import PokemonCard from './PokemonCard';
 
 const PokemonList = ({ pokemons }) => {
-  console.log('~Pokemon ', pokemons);
+  // console.log('~Pokemon ', pokemons);
   return (
     <div className="PokemonList">
       {pokemons.map((pokemon) => {
