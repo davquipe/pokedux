@@ -35,7 +35,7 @@ function App() {
         <Searcher />
       </Col>
       {loading ? (<Col offset={12}>
-        <Spin spinning size='large' />
+        <Spin spinning size='large' tip='Loading...' />
       </Col>
       ) : (
         <PokemonList pokemons={pokemons} />
