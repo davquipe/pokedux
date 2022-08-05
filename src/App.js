@@ -10,8 +10,8 @@ import { useDispatch, useSelector } from 'react-redux';
 
 function App() {
 
-  const pokemons = useSelector((state) => state.get('pokemons')).toJS();
-  const loading = useSelector((state) => state.get('loading'));
+  const pokemons = useSelector((state) => state.getIn(['data', 'pokemons'])).toJS();
+  const loading = useSelector((state) => state.get(['ui', 'loading']));
   const dispatch = useDispatch();
 
   useEffect(() => {
