@@ -19,8 +19,8 @@ function App() {
       dispatch(setPokemons(pokemonsRes));
     };
 
-    fetchPokemons()
-  }, [])
+    fetchPokemons();
+  }, []);
 
 
   return (
