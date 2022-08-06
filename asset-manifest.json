@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pokedux/static/css/main.ca1986b2.css",
+    "main.js": "/pokedux/static/js/main.a87f2155.js",
+    "static/media/logo.svg": "/pokedux/static/media/logo.0905522d6d18ceaafa60a31e87c99e88.svg",
+    "index.html": "/pokedux/index.html",
+    "main.ca1986b2.css.map": "/pokedux/static/css/main.ca1986b2.css.map",
+    "main.a87f2155.js.map": "/pokedux/static/js/main.a87f2155.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca1986b2.css",
+    "static/js/main.a87f2155.js"
+  ]
+}
