@@ -63,9 +63,3 @@ Feel free to check the [issues page](../../issues).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Original design inspired from [Kuon yagi](https://dribbble.com/kuon_yagi)
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
